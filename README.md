@@ -16,7 +16,7 @@
 リポジトリをクローンしてください：
 
 ```bash
-git clone https://github.com/yourusername/BlinkCounter_MATLAB.git
+git clone https://github.com/yhotta240/matlab-eyes-blink-counter.git
 ```
 1. MATLABを開き，リポジトリのフォルダに移動します．
 
