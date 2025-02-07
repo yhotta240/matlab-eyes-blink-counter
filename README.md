@@ -8,7 +8,7 @@
 - 再生中の動画にまばたき回数をリアルタイム表示．
 
 ### 必要条件
-- MATLAB（R2023aで動作確認済み．ただし，Computer Vision Toolboxが必要です）．
+- MATLAB（R2021aで動作確認済み．ただし，Computer Vision Toolboxが必要です）．
 - Computer Vision Toolbox．
 - 処理する動画ファイル（形式：.mp4）．
 
