@@ -7,7 +7,7 @@ eyeDetector = vision.CascadeObjectDetector('EyePairBig');
 pointTracker = vision.PointTracker('MaxBidirectionalError', 2);
 
 % 動画を読み込む
-videoName = "example-videoName"; % 読み込む動画の名前
+videoName = "your-video-name"; % 動画ファイル名を指定
 v = VideoReader(videoName + ".mp4");
 
 % 動画プレイヤーの作成
